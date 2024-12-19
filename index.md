@@ -1,25 +1,34 @@
 ---
 ---
-Welcome to the Robot Interaction and Manipulation Lab! Our mission is to develop tactile sensing capabilities for humanoid robots.
+Welcome to the Robot Interaction and Manipulation Lab! We strive to advance the field of Embodied AI by developing cutting-edge tactile sensing technologies and pioneering new human-robot interaction paradigms. Our goal is to empower robots to perform complex manipulation tasks in unstructured real-world environments.
 
-**Openings:** 
-- [Master Program] Our lab has 2-3 **Master program** student openings every year: 2025 保研推免([推免报名](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)、[报名入口](https://gadmission.shanghaitech.edu.cn/enroll_student/))、统考. Feel free to shot me an email (xiaochx AT shanghaitech.edu.cn) or fill information [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
-- [PhD program] We are collaborating with BIGAI (北京通用人工智能研究院) to admit 2025 PhD students, focusing on robot manipulation, teleoperation, and related areas. 推免直博夏令营报名中：[通计划夏令营](https://mp.weixin.qq.com/s/PgF59X2Gijm5d1-fRyTdbQ). 需要同时报名上科大夏令营。
-- [RA & PostDoc] Our lab has 2 openings for full-time **Research Assistant** and **Research Assistant Professor (or PostDoc)** [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
 
-<!-- - <span style="color:blue"> We have a 2024 **joint PhD position** available with BIGAI (北京通用人工智能研究院), focusing on robot manipulation, teleoperation, and related areas (application deadline: May 29 2024). Feel free to contact us by email.  For application details, please refer to
-  [Guidelines (上科大研招信息)](https://yanzhao.shanghaitech.edu.cn/2024/0428/c2420a1094332/page.htm)  </span> -->
+欢迎来到机器人交互与操作实验室！我们致力于推动具身智能的发展，通过研发先进的触觉传感技术和新型人机交互范式，使机器人能够在非结构化环境中高效完成复杂操作任务。
+
+**Open Positions【硕博招生、助研招聘、博后招聘】**  
+- **[Master’s Program] 【硕士研究生】**  
+  We have 2-3 Master’s student openings annually (2025 统考，专业方向：计算机、电子).  
+  For inquiries, please contact Prof. Xiao (xiaochx [AT] shanghaitech.edu.cn) or submit your application here: [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
+
+- **[PhD Program] 【博士研究生】**  
+  We are collaborating with BIGAI (北京通用人工智能研究院) to recruit PhD students for 2025.  
+  **New**: Applications are currently open via [通计划招生简章及报名方式](https://yanzhao.shanghaitech.edu.cn/2024/1218/c2420a1104755/page.htm). 
+
+- **[Research Assistant & Postdoctoral Positions] 【助研、博后】**  
+  We have two full-time positions available: Research Assistant and Research Assistant Professor (or Postdoctoral Fellow).  
+  To apply, please visit: [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
 
 ---
 
 Our research interests include but are not limited to:
 
-🖐️ **Tactile sensors**. We develop tactile sensors for dexterous hands.
+🖐️ **Tactile sensors**. Developing tactile sensors for dexterous robotic hands.
 
-🧠 **Learning manipulation skills**. We enable robot to learn object manipulation skills through tactile sensing. 
+🧠 **Learning manipulation skills**. Enabling robots to learn object manipulation through tactile feedback.
 
-🌐 **Human-robot interaction**. We explore techniques (e.g., teleoperation) that help robots collaborate with human. 
+🌐 **Human-robot interaction**. Exploring techniques (e.g., teleoperation) that facilitate seamless human-robot collaboration.
 
+实验室主要方向：多模态传感器、具身智能、机器人系统及控制、技能学习。
 
 ## 2024
 <p align="center">
